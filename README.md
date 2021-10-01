@@ -1,1 +1,1 @@
-# GitOps for test
+# GitOps
